@@ -1,0 +1,4 @@
+platform :ios, ‘8.0’
+target 'TableViewCellBecomeTall' do
+pod 'Masonry', '~> 1.1.0'
+end
